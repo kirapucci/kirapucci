@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/03/f9/35/03f935a95ba7efe94b1c49e18c140e0e.jpg">
 
 <!--
 **kirapucci/kirapucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

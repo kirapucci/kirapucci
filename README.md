@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/03/f9/35/03f935a95ba7efe94b1c49e18c140e0e.jpg">
 
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d8fff0b-0089-46f9-b129-de21f4530c88/da0zkzy-d11f05bd-4de0-479f-b706-df6483729c6a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkOGZmZjBiLTAwODktNDZmOS1iMTI5LWRlMjFmNDUzMGM4OFwvZGEwemt6eS1kMTFmMDViZC00ZGUwLTQ3OWYtYjcwNi1kZjY0ODM3MjljNmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YvscX_hl-XJGJtJ4za3EZseFcWz9O1DkQHDcoXpKPY4">
+
 <!--
 **kirapucci/kirapucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
